@@ -1,7 +1,8 @@
 <h1 align="center">Hola, soy Camilo</h1>
 <h3 align="center">Soy un estudiante de programación en desarrollo web con experiencia en en Java, JavaScript, Docker, MySQL y JQuery.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">About me:</h3>
+<p>ASDADS</p>
 <p align="left">
 </p>
 
