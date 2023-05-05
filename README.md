@@ -13,6 +13,7 @@
   <li><strong>MySql</strong>:Conocimiento en la creación, manipulación y consultas</li>
   <li><strong>JavaScript</strong>:Conocimiento en la importacion de librerias y frameworks y en la creación de aplicaciones web interactivas y dinámicas.</li>
   <li><strong>Power BI</strong>:Conocimientos en la creación de informes y visualizaciones de datos interactivas y dinámicas, la integración de datos de múltiples fuentes y el análisis de datos.</li>
+  <li><strong>Docker</strong>:Conocimientos basicos en la cración de contenedores y uso de imagenes, con experiencia en instalacion de tomcat, apache y ngxin en proxys inversos</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
