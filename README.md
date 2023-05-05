@@ -8,7 +8,7 @@
 
 <h3 align="left">Skills:</h3>
 <ul>
-<li>JQuery: Conocimientos en el uso de la librería JQuery para el desarrollo de aplicaciones web, la manipulación del DOM, el manejo de eventos y la creación de animaciones.</li>
+  <li><strong>JQuery</strong>: Conocimientos en el uso de la librería JQuery para el desarrollo de aplicaciones web, la manipulación del DOM, el manejo de eventos y la creación de animaciones.</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
