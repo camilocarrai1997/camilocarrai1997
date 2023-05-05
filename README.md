@@ -2,7 +2,7 @@
 <h3 align="center">Soy un estudiante de programación en desarrollo web con experiencia en en Java, JavaScript, Docker, MySQL y JQuery.</h3>
 
 <h3 align="left">About me:</h3>
-<p>ASDADS</p>
+<p>Me gusta crear páginas web originales y creativas que aporten una buena experiencia tanto para personas como empresas. Mi objetivo es disfrutar y seguir aprendiendo a programar y mejorar mi carrera profesional</p>
 <p align="left">
 </p>
 
