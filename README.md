@@ -7,6 +7,7 @@
 </p>
 
 <h3 align="left">Skills:</h3>
+<script>alert("asda")</script>
 <ul>
   <li><strong>Java</strong>: Conocimiento en programación orientada a objetos y sintaxis</li>
   <li><strong>JQuery</strong>: Conocimientos en el uso de la librería JQuery para el desarrollo de aplicaciones web, la manipulación del DOM, el manejo de eventos y la creación de animaciones.</li>
