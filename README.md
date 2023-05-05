@@ -8,7 +8,11 @@
 
 <h3 align="left">Skills:</h3>
 <ul>
+  <li><strong>Java</strong>: Conocimiento en programación orientada a objetos y sintaxis</li>
   <li><strong>JQuery</strong>: Conocimientos en el uso de la librería JQuery para el desarrollo de aplicaciones web, la manipulación del DOM, el manejo de eventos y la creación de animaciones.</li>
+  <li><strong>MySql</strong>:Conocimiento en la creación, manipulación y consultas</li>
+  <li><strong>JavaScript</strong>:Conocimiento en la importacion de librerias y frameworks y en la creación de aplicaciones web interactivas y dinámicas.</li>
+  <li><strong>Power BI</strong>:Conocimientos en la creación de informes y visualizaciones de datos interactivas y dinámicas, la integración de datos de múltiples fuentes y el análisis de datos.</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
